@@ -1,7 +1,7 @@
 {
 	"name": "bootstrap",
 	"description": "A custom fork that implements CSS custom properties across the framework.",
-	"version": "5.0.1",
+	"version": "5.0.1.1",
 	"config": {
 		"version_short": "5.0"
 	},
